@@ -1,0 +1,3 @@
+[submodule "mongoQueries"]
+	path = mongoQueries
+	url = git@github.com:victusfate/mongoQueries.git

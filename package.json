@@ -1,0 +1,13 @@
+{
+    "author": "Mark Essel <messel@gmail.com> (http://victusspiritus.com/)",
+    "name": "nodeMongoQueries",
+    "main": "index",
+    "description": "a few light queries from node to mongo's native driver",
+    "version": "0.0.1",
+    "homepage": "http://cameoapp.com/",
+    "private": false,
+    "dependencies": {
+        "mongodb" : ">=1.1.4"
+    }
+}
+
